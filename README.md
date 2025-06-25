@@ -8,5 +8,5 @@ Steps included in the project
 6. Train test split : Split the data into 80 percent for training and 20 percent for testing purpose, for validating if the model is overfit or under fit 
 7. model training: Training the model in the training dataset  
 8. model evaluation : Evaluating the model on test dataset using metric like MSE, RMSE, MAE R2 score 
-9. Overall best model evaluation : Selection of the best performing model 
+9. Overall best model evaluation : Selection of the best performing model best on the evaluation performed  
     
