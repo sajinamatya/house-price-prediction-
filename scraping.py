@@ -1,3 +1,4 @@
+# importing of the required modules 
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -6,6 +7,8 @@ from time import sleep
 from random import uniform
 import logging
 
+
+# Fetch the pages urls and headers 
 def fetch_page(url, headers):
     try:
         response = requests.get(url, headers=headers, timeout=10)
@@ -13,6 +16,7 @@ def fetch_page(url, headers):
     except Exception as e:
         logging.error(f"Error fetching {url}: {str(e)}")
         return None
+
 
 def parse_property_card(each):
     price_tag = each.find('span', class_='price-tag')
