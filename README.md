@@ -14,8 +14,10 @@
 
 ## R2 scores of all the model that is being used 
 <img width="886" height="538" alt="image" src="https://github.com/user-attachments/assets/8d2b7bb3-8268-47e1-9b6c-b82c9e4a17ed" />
+
 ## RMSE score 
 <img width="894" height="541" alt="image" src="https://github.com/user-attachments/assets/4fb3befb-c1b6-4d0c-b49a-5ddf0727aba5" />
+
 ## MAE score 
 <img width="927" height="532" alt="image" src="https://github.com/user-attachments/assets/ee40ba1f-0c23-42cd-ae98-5c6ce390dda2" />
 
