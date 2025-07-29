@@ -1,5 +1,5 @@
 # House price prediction model 
-Steps included in the project  
+## Steps included in the project  
 1. Data loading : Loading the csv file into pandas dataframe to perform data manipulation
 2. Data understanding : Understand the format and structure of the data,missing values, variable value count, etc
 3. EDA : Find the hidden pattern from the data 
@@ -10,3 +10,13 @@ Steps included in the project
 8. model evaluation : Evaluating the model on test dataset using metric like MSE, RMSE, MAE R2 score 
 9. Overall best model evaluation : Selection of the best performing model best on the evaluation performed  
     
+
+
+## R2 scores of all the model that is being used 
+<img width="886" height="538" alt="image" src="https://github.com/user-attachments/assets/8d2b7bb3-8268-47e1-9b6c-b82c9e4a17ed" />
+## RMSE score 
+<img width="894" height="541" alt="image" src="https://github.com/user-attachments/assets/4fb3befb-c1b6-4d0c-b49a-5ddf0727aba5" />
+## MAE score 
+<img width="927" height="532" alt="image" src="https://github.com/user-attachments/assets/ee40ba1f-0c23-42cd-ae98-5c6ce390dda2" />
+
+### The RMSE, mean absolute error, and mean squared error scores of the Random Forest Regressor and Stacking Regressor were almost the same and lower than those of the Linear Regressor. This suggests better model performance in prediction, as the difference between the actual and predicted values is comparatively lower than that of the Linear Regressor.
