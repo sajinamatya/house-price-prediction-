@@ -10,6 +10,8 @@
 8. model evaluation : Evaluating the model on test dataset using metric like MSE, RMSE, MAE R2 score 
 9. Overall best model evaluation : Selection of the best performing model best on the evaluation performed  
     
+## Flow Chart
+<img width="1016" height="719" alt="image" src="https://github.com/user-attachments/assets/a0d3e138-fcd9-4a7c-9321-370bf377f111" />
 
 
 ## R2 scores of all the model that is being used 
