@@ -9,7 +9,9 @@
 7. model training: Training the model in the training dataset  
 8. model evaluation : Evaluating the model on test dataset using metric like MSE, RMSE, MAE R2 score 
 9. Overall best model evaluation : Selection of the best performing model best on the evaluation performed  
-    
+
+## Link to the documentation : https://github.com/sajinamatya/house-price-prediction-/blob/master/House%20price%20prediction.pdf
+
 ## Flow Chart
 <img width="1016" height="719" alt="image" src="https://github.com/user-attachments/assets/a0d3e138-fcd9-4a7c-9321-370bf377f111" />
 
