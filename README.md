@@ -1,4 +1,6 @@
 # House price prediction model 
+<img width="567" height="275" alt="image" src="https://github.com/user-attachments/assets/4c6e64a6-a998-41eb-b5b4-795374b49b42" />
+
 ## Steps included in the project  
 1. Data loading : Loading the csv file into pandas dataframe to perform data manipulation
 2. Data understanding : Understand the format and structure of the data,missing values, variable value count, etc
