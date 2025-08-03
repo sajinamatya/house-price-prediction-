@@ -1,7 +1,7 @@
 # House price prediction model 
 <img width="1153" height="726" alt="image" src="https://github.com/user-attachments/assets/843d23e4-75f7-44ef-9297-57e3ca624e00" />
 
-<img width="567" height="275" alt="image" src="https://github.com/user-attachments/assets/4c6e64a6-a998-41eb-b5b4-795374b49b42" />
+
 
 ## Steps included in the project  
 1. Data loading : Loading the csv file into pandas dataframe to perform data manipulation
